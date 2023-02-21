@@ -51,7 +51,7 @@ def deleteData():
 def viewPath():
         fuk.system('clear')
         #common naman na kita na sa vaariable na path sya or list ng directory
-        path = fuk.listdir('/storage/emulated/0/download/termux/pract/pqssword manager/bank pract')
+        path = fuk.listdir('palagay ng path ng folder kung saan nakasave yung python fike nyo')
         print(path)
         
 def deleteItem():
