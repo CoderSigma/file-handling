@@ -1,6 +1,2 @@
-# need mo muna mag import
-ang iimport mo is os para sa dir list
-
-# input file name
-makikita nyo jan yung input ng filename naka append sa .txt na string
-
+#una need mo ng brain
+open mo na yung file basahin mo comment ha kaltokan kita pag dika nag basa 
